@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ryder 👋
 
-<!--
-**RyderWar/RyderWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building software projects and developing skills in programming, web development, and AI-related technologies.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building a running dashboard web application
+* Learning JavaScript, C++, HTML, and CSS
+* Expanding software development fundamentals through hands-on projects
+
+## Interests
+
+* Software Engineering
+* AI-Assisted Tools
+* Web Development
+* Performance Technology
+
+## Goals
+
+* Continue building portfolio projects
+* Transfer to a 4-year university for Computer Science
+* Prepare for future software engineering internships
